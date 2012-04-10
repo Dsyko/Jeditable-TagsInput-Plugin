@@ -1,7 +1,7 @@
 ﻿
-## Jeditabel Tags Input
+# Jeditabel Tags Input
 
-In place editing with a Tagsinput. Clean and simple. Based on Jeditable and Tagsinput.
+In place editing with a Tagsinput. Short and sweet. Based on Jeditable and Tagsinput.
 
 ## Background
 
@@ -14,10 +14,6 @@ In place editing with a Tagsinput. Clean and simple. Based on Jeditable and Tags
 ## Demo
 
 Coming Soon?
-
-## Tested
-
-Firefox, Chrome
 
 ## Usage
 
